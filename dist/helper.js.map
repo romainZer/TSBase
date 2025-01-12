@@ -1,0 +1,1 @@
+{"version":3,"file":"helper.js","sourceRoot":"","sources":["../src/helper.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,MAAM;IACzB,gBAAe,CAAC;IAET,QAAQ,CAAC,OAAe;QAC7B,OAAO,CAAC,GAAG,CAAC,aAAa,OAAO,EAAE,CAAC,CAAC;IACtC,CAAC;CACF"}
